@@ -1,0 +1,13 @@
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.exe
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.deps.json
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.runtimeconfig.json
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.runtimeconfig.dev.json
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.dll
+D:\Universidad\Programacion III\colas_umg\colas_umg\bin\Debug\netcoreapp3.1\colas_umg.pdb
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.csprojAssemblyReference.cache
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.AssemblyInfoInputs.cache
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.AssemblyInfo.cs
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.dll
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.pdb
+D:\Universidad\Programacion III\colas_umg\colas_umg\obj\Debug\netcoreapp3.1\colas_umg.genruntimeconfig.cache
